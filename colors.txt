@@ -1,0 +1,4 @@
+brandPrimary: #18B6E8
+brandSecondary: #F3A32A
+textPrimary: #343434
+textSecondary: #777777
